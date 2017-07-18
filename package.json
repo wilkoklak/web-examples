@@ -1,0 +1,19 @@
+{
+  "name": "web-examples",
+  "version": "0.1.0",
+  "description": "A bunch of sites that I write to learn, deal with boredom ",
+  "main": "index.htm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilkoklak/web-examples.git"
+  },
+  "author": "Artur Boryś",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilkoklak/web-examples/issues"
+  },
+  "homepage": "https://github.com/wilkoklak/web-examples#readme"
+}
