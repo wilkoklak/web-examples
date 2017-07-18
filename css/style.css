@@ -1,0 +1,25 @@
+div.center {
+  margin: auto; }
+  @media screen and (min-width: 640px) {
+    div.center {
+      width: 576px; } }
+  @media screen and (min-width: 720px) {
+    div.center {
+      width: 640px; } }
+  @media screen and (min-width: 800px) {
+    div.center {
+      width: 720px; } }
+  @media screen and (min-width: 1024px) {
+    div.center {
+      width: 960px; } }
+  @media screen and (min-width: 1200px) {
+    div.center {
+      width: 1080px; } }
+
+* {
+  box-sizing: border-box; }
+
+body {
+  background-color: #f2f2f2;
+  color: #333;
+  font-family: Arial, sans-serif; }
